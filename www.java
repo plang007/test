@@ -1,2 +1,2 @@
-<<<<<<< HEAD
+FUCK
 ffff1
