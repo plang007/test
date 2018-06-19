@@ -8,6 +8,7 @@ public class class2quiz {
 			if (!twosumprime(i)) {
 				System.out.println("GoldBach is not always right");
 				System.out.println(i);
+				System.out.println(i+1); // new 
 				break;
 			}
 		}
