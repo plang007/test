@@ -1,10 +1,1 @@
-xcx
-FUCK
-weee
-asdsd
-sdsds
-ffff1
-sdsdsd
-sdsdsd
-sdsdsss
-fff
+djhcsdjachekcdwnk;
