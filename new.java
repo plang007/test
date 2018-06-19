@@ -8,10 +8,8 @@ public class class2quiz {
 			if (!twosumprime(i)) {
 				System.out.println("GoldBach is not always right");
 				continue;
-				System.out.println(i+1); // new
 			}
 		}
-		System.out.println("GoldBach is right for numbers under 10000");
 	}
 	
 	public static boolean twosumprime(int even){
