@@ -4,12 +4,11 @@ public class class2quiz {
 //	Every even number greater than 2 can be expressed as the sum of two primes
 //  Check if this is true, starting from 4
 	public static void main(String arg[]) {
-		for (int i = 4; i<10000; i+=2) {
+		for (int i = 4; i<1; i+=2) {
 			if (!twosumprime(i)) {
 				System.out.println("GoldBach is not always right");
 				System.out.println(i);
-				System.out.println(i+1); // new 
-				break;
+				System.out.println(i+1); // new
 			}
 		}
 		System.out.println("GoldBach is right for numbers under 10000");
